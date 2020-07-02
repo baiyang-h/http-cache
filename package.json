@@ -1,0 +1,14 @@
+{
+  "name": "http-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:1": "nodemon ./test1/index.js",
+    "dev:2": "nodemon ./test2/index.js",
+    "dev:3": "nodemon ./test3/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
